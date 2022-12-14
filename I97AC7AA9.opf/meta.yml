@@ -1,0 +1,26 @@
+id: I97AC7AA9
+default_language: en-us
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:04:50.787901+00:00
+last_modified: 2022-12-14 18:04:50.787907+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-055-005
+  eft-text-version: 1.5.11 2021
+  title: Toh_131-The_Absorption_of_the_Thus-Gone_One%E2%80%99s_Wisdom_Seal-v1
+bases:
+  7C84:
+    source_metadata: null
+    order: 1
+    base_file: 7C84.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
